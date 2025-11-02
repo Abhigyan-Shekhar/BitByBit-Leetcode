@@ -15,5 +15,5 @@ Please include the following details in the `README.md` file of **your forked re
 | **Semester** |3 |
 | **USN** | 1WN24CS012 |
 | **College Email** | abhigyanshekhar.cs24@bmsce.ac.in |
-| **LeetCode Profile** | [Your LeetCode username/profile link]([https://leetcode.com/u/Abhihihihi/]) |
+| **LeetCode Profile** | [Your LeetCode username/profile link](https://leetcode.com/u/Abhihihihi/))  |
 
